@@ -1,9 +1,8 @@
-                                                       
- Hiii, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Suraj Kumar
+Hiii, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Suraj Kumar
 ================================================================================================================================
 
-- I am a full stack web and react developer. 
-- I am skilled in react and C++.
+- I am a FullStack Web Developer.
+- I am skilled in React and C++.
 - I am also skilled in HTML, CSS, Javascript & React. I am good in data structure and algorithms.
 - I learned a lot from the open-source community.
 
