@@ -3,21 +3,24 @@ Hiii, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 
 - I am a FullStack Web Developer.
 - I am skilled in React and C++.
-- I am also skilled in HTML, CSS, Javascript & React. I am good in data structure and algorithms.
+- I am good in data structure and algorithms.
 - I learned a lot from the open-source community.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-   <p align="center" color:"red">
- <a>
-          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=Front-End Web Developer;Full+Stack+Web+Developer;1.5%2B%20years of coding experience;Always learning new things...."></a>
-      </p>
-       
+<p align="center" color:"red">
+   
+<a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=700&lines=Front-End Web Developer;Full+Stack+Web+Developer;1.5%2B%20years of coding experience;Always learning new things....">
+</a>
+
+</p>  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"> 
+
+<!-- <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=shubham-bhoite&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
  <img src="https://img.shields.io/github/followers/shubham-bhoite?label=Followers&style=social" alt="followers-count"> 
 </p>
-
+ -->
 
 
  ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
@@ -29,7 +32,7 @@ Hiii, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 
 
 - ✍  Reach me on **<a href="https://www.linkedin.com/in/surajkumar9693" target="_blank" >LinkedIn</a>**
-- ✍  My all Project **<a href="https://linktr.ee/suraj9693" target="_blank" >Linktree</a>**
+- ✍  My all Projects **<a href="https://linktr.ee/suraj9693" target="_blank" >Linktree</a>**
 
 
 <br/>
